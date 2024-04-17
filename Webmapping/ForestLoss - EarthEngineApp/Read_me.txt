@@ -1,1 +1,0 @@
-This is a google earth engine app that i created to moniotr forest loss within some towns in Tarkwa - Ghana due to mining activities.
